@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin!
+<h1> Hi there, I'm Kevin! </h1>
 
 <div align="center">
   <a href="https://github.com/alexsanderkevin">
@@ -11,12 +11,32 @@
   <img align="center" alt="Kevin-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kevin-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kevin-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <hr>
 </div>
 
-- 🌱 I’m currently learning about FrontEnd Developing with: Javascript, Handlebars, HTML5, CSS3, Sequelize
+<h2> 🌱 I’m currently learning about FrontEnd Developing with: </h2>
+  
   <ul>
-- 🔭 I’m currently working on a Procedure Documentation System (wich you can see among my repositories) at Lenovo's technical assistance department as a contractor.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
--->
+    <li>Javascript
+    <li>Handlebars
+    <li>HTML5
+    <li>CSS3
+  </ul>
+  <hr>
+  
+<h2> 🔭 I’m currently working on: </h2>
+  <ul>
+    <li><a href="https://github.com/AlexsanderKevin/procedure-documentation-system">Procedure Documentation System</a>
+  </ul>
+ <hr>
+
+<h2> 📫 How to reach me: </h2>
+  <div style="display: inline_block">
+    <a href="mailto:kevin13348@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/kevin-alexsander-1610b91ab/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
+
