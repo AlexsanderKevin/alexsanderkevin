@@ -14,13 +14,23 @@
   <hr>
 </div>
 
-<h2> 🌱 I’m currently learning about FrontEnd Developing with: </h2>
+<h2> 🌱 I’m currently learning about FrontEnd Development with: </h2>
   
   <ul>
     <li>Javascript
     <li>Handlebars
     <li>HTML5
     <li>CSS3
+  </ul>
+  <hr>
+  
+<h2> 🌱 I'm also interested in: </h2>
+   <ul>
+    <li>TypeScript
+    <li>Mobile development
+    <li>React Native
+    <li>Dart
+    <li>Flutter
   </ul>
   <hr>
   
