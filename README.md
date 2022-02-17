@@ -27,6 +27,7 @@
 <h2> 🌱 I'm also interested in: </h2>
    <ul>
     <li>TypeScript
+    <li>C#
     <li>Mobile development
     <li>React Native
     <li>Dart
