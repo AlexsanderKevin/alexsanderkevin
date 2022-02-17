@@ -18,7 +18,6 @@
   
   <ul>
     <li>Javascript
-    <li>Handlebars
     <li>HTML5
     <li>CSS3
   </ul>
