@@ -14,12 +14,11 @@
   <hr>
 </div>
 
-<h2> 🌱 I’m currently learning about FrontEnd Development with: </h2>
+<h2> 🌱 I’m currently learning: </h2>
   
   <ul>
     <li>Javascript
-    <li>HTML5
-    <li>CSS3
+    <li>C#
   </ul>
   <hr>
   
