@@ -17,8 +17,8 @@
 <h2> 🌱 I’m currently learning: </h2>
   
   <ul>
-    <li>Javascript
-    <li>C#
+    <li><a href="https://github.com/AlexsanderKevin/origamid-javascript">JavaScript</a>
+    <li><a href="">C#</a>
   </ul>
   <hr>
   
