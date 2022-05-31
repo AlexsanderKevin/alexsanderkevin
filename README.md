@@ -19,6 +19,7 @@
   <ul>
     <li><a href="https://github.com/AlexsanderKevin/origamid-javascript">JavaScript</a>
     <li><a href="https://github.com/AlexsanderKevin/udemy-csharp">C#</a>
+    <li>Java
   </ul>
   <hr>
   
@@ -27,7 +28,6 @@
     <li>TypeScript
     <li>Mobile development
     <li>React Native
-    <li>Dart
     <li>Flutter
   </ul>
   <hr>
