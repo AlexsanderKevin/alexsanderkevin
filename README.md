@@ -32,7 +32,7 @@
   </ul>
   <hr>
   
-<h2> 🔭 I’m currently working on: </h2>
+<h2 styles="display:none;"> 🔭 I’m currently working on: </h2>
   <ul>
     <li><a href="https://github.com/AlexsanderKevin/procedure-documentation-system">Procedure Documentation System</a>
   </ul>
