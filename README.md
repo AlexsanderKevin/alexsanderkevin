@@ -19,7 +19,7 @@
   <ul>
     <li><a href="https://github.com/AlexsanderKevin/origamid-javascript">JavaScript</a>
     <li><a href="https://github.com/AlexsanderKevin/udemy-csharp">C#</a>
-    <li>Java
+    <li><a href="https://github.com/AlexsanderKevin/spring-mvc-tutorial">Java</a>
   </ul>
   <hr>
   
@@ -27,16 +27,10 @@
    <ul>
     <li>TypeScript
     <li>Mobile development
-    <li>React Native
+    <li>React
     <li>Flutter
   </ul>
   <hr>
-  
-<h2 styles="display:none;"> 🔭 I’m currently working on: </h2>
-  <ul>
-    <li><a href="https://github.com/AlexsanderKevin/procedure-documentation-system">Procedure Documentation System</a>
-  </ul>
- <hr>
 
 <h2> 📫 How to reach me: </h2>
   <div style="display: inline_block">
