@@ -18,7 +18,8 @@
   
   <ul>
     <li><a href="https://github.com/AlexsanderKevin/origamid-javascript">JavaScript</a>
-    <li><a href="https://github.com/AlexsanderKevin/udemy-csharp">C#</a>
+    <li><a href="https://github.com/AlexsanderKevin/origamid-react">React</a>
+    <li><a href="https://github.com/AlexsanderKevin/origamid-sass">SASS</a>
     <li><a href="https://github.com/AlexsanderKevin/spring-mvc-tutorial">Java</a>
   </ul>
   <hr>
