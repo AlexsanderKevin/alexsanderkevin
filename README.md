@@ -28,7 +28,6 @@
    <ul>
     <li>TypeScript
     <li>Mobile development
-    <li>React
     <li>Flutter
   </ul>
   <hr>
