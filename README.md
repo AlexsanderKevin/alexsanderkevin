@@ -27,8 +27,8 @@
 <h2> 🌱 I'm also interested in: </h2>
    <ul>
     <li>TypeScript
-    <li>Mobile development
-    <li>Flutter
+    <li>Node.js
+    <li>UI / UX
   </ul>
   <hr>
 
